@@ -1,2 +1,2 @@
 # Translator
-Trnaslates english sentence to japanese
+Translates english sentence to japanese
